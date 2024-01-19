@@ -198,5 +198,5 @@ mkdir -p /logs/lan
 cat /etc/services | grep snmp >> /home/logs.log
 mv /home/logs.log /logs/lan/logs.log
 ps -ef | grep ssh
-
+ none
 _____________________________________________________________________________________________________
